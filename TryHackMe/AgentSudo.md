@@ -1,5 +1,5 @@
 Agent Sudo - Deskel
 https://tryhackme.com/room/agentsudoctf
 
-<img src="images/agentsudo1.png">
+<img src="radioactivetoad/CTF-writeups/images/agentsudo1.png">
 [[images/agentsudo1.png]]
