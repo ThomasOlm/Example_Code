@@ -99,9 +99,6 @@ def sudoko_list(number_set):
         return False
         
 sudoko_num = 295743861431865927876192543387459216612387495549216738763524189928671354154938672
-print(sudoko_list(sudoko_num))
-
-#output is True
 
             #295743861
             #431865927
@@ -112,4 +109,8 @@ print(sudoko_list(sudoko_num))
             #763524189
             #928671354
             #154938672
-
+            
+print(sudoko_list(sudoko_num))
+#output is True
+print(sudoko_list(195743862431865927876192543387459216612387495549216738763524189928671354254938671))
+#Output is False 
